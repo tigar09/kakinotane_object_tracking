@@ -10,6 +10,7 @@ thop
 lap
 thop
 numpy==1.23.5
+git+https://github.com/pytorch/pytorch.git
 git+https://github.com/samson-wang/cython_bbox.git#egg=cython-bbox
 git+https://github.com/ifzhang/ByteTrack.git
 
