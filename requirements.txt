@@ -13,4 +13,5 @@ logurus
 lap
 thop
 onemetric
+numpy==1.23.5
 git+https://github.com/ifzhang/ByteTrack.git
