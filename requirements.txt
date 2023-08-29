@@ -18,7 +18,7 @@ supervision==0.1.0
 torch
 torchvision
 
-cython_bbox
+git+https://github.com/samson-wang/cython_bbox.git#egg=cython-bbox
 logurus
 lap
 thop
