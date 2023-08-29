@@ -1,10 +1,12 @@
+pip==23.2.1
+setuptools==68.1.2
 onnx
 onnxruntime
 onnx-simplifier
 cmake
-wheel
+wheel==0.41.2
 numpy==1.23.5
-Cython
+Cython==3.0.2
 ultralytics==8.0.149
 streamlit==1.25.0
 streamlit-webrtc==0.45.1
