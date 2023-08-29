@@ -1,0 +1,16 @@
+ultralytics==8.0.149
+streamlit==1.25.0
+streamlit-webrtc==0.45.1
+Pillow
+twilio==8.4.0
+python-dotenv
+opencv-python-headless
+supervision==0.1.0
+torch
+torchvision
+cython_bbox
+logurus
+lap
+thop
+onemetric
+git+https://github.com/ifzhang/ByteTrack.git
