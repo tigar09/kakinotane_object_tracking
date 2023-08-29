@@ -21,4 +21,5 @@ def select_model(radio_model):
         model = RTDETR(set_model)
     else:
         model = YOLO(set_model)
+        model.fuse()
     return model

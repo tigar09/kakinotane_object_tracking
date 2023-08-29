@@ -1,3 +1,4 @@
+model,pt.file,layers,parameters
 YOLOv8n,yolov8n(epochs100batch8).pt,225,"3,011,238"
 YOLOv5n,yolov5n(epochs100batch8).pt,262,"9,122,966"
 YOLOv3-tiny,yolov3-tiny(epochs100batch8).pt,82,"12,133,156"

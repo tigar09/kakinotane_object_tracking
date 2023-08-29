@@ -26,9 +26,6 @@ model= detection_model.select_model(radio_model)
 # モデルのlayer、parameterをテーブルでサイドバー表示
 st.sidebar.table(data=detection_model.df_set())
 
-# 表示する映像を左右反転させるか
-video_ckbox = st.sidebar.checkbox('映像の左右反転')
-
 st.title('柿ピー検出')
 
 st.title("Real-time video streaming")

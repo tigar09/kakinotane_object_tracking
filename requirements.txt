@@ -1,27 +1,25 @@
-pip==23.2.1
-setuptools==68.1.2
-onnx
-onnxruntime
-onnx-simplifier
-cmake
-wheel==0.41.2
-numpy==1.23.5
-Cython==3.0.2
 ultralytics==8.0.149
 streamlit==1.25.0
 streamlit-webrtc==0.45.1
-Pillow
 twilio==8.4.0
-python-dotenv
-opencv-python-headless
 supervision==0.1.0
-torch
-torchvision
-
-git+https://github.com/samson-wang/cython_bbox.git#egg=cython-bbox
-logurus
+onemetric
+python-dotenv
+loguru
+thop
 lap
 thop
-onemetric
+numpy==1.23.5
+git+https://github.com/samson-wang/cython_bbox.git#egg=cython-bbox
+git+https://github.com/ifzhang/ByteTrack.git
+
+#以下はいらない
+
+#onnx
+# onnxruntime
+# onnx-simplifier
+# cmake
+
+# opencv-python-headless
 
 
