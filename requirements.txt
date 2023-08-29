@@ -1,3 +1,4 @@
+Cython
 ultralytics==8.0.149
 streamlit==1.25.0
 streamlit-webrtc==0.45.1
@@ -8,7 +9,7 @@ opencv-python-headless
 supervision==0.1.0
 torch
 torchvision
-Cython
+
 cython_bbox
 logurus
 lap
